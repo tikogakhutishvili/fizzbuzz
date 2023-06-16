@@ -1,4 +1,4 @@
-var num = 1
+let num = 1
 while(num <= 100){
     if(num % 15 === 0){
         console.log("fizzbuzz")
